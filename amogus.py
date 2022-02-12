@@ -2,7 +2,7 @@ import pickle
 
 hacked = False
 input_task = input('- ')
-codes = ('1234', '4321', '1324', '1243', 'ABCD', 'DCBA', 'ACBD', 'ABDC)
+codes = ('1234', '4321', '1324', '1243', 'ABCD', 'DCBA', 'ACBD', 'ABDC')
 codes_imposter = ('1111', '2222', '3333', '4444', 'AAAA', 'BBBB', 'CCCC', 'DDDD')
 
 if input_task in codes:
